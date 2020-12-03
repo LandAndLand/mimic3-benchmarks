@@ -9,15 +9,19 @@ from mimic3benchmark.preprocessing import add_hcup_ccs_2015_groups, make_phenoty
 from mimic3benchmark.util import dataframe_from_csv
 
 parser = argparse.ArgumentParser(description='Extract per-subject data from MIMIC-III CSV files.')
+# 设置parser的前两个参数是位置参数
 parser.add_argument('mimic3_path', type=str, help='Directory containing MIMIC-III CSV files.')
 parser.add_argument('output_path', type=str, help='Directory where per-subject data should be written.')
+# 设置后面的参数是可选参数
 parser.add_argument('--event_tables', '-e', type=str, nargs='+', help='Tables from which to read events.',
                     default=['CHARTEVENTS', 'LABEVENTS', 'OUTPUTEVENTS'])
 parser.add_argument('--phenotype_definitions', '-p', type=str,
                     default=os.path.join(os.path.dirname(__file__), '../resources/hcup_ccs_2015_definitions.yaml'),
                     help='YAML file with phenotype definitions.')
 parser.add_argument('--itemids_file', '-i', type=str, help='CSV containing list of ITEMIDs to keep.')
+# 设置verbose的默认值为true
 parser.add_argument('--verbose', '-v', dest='verbose', action='store_true', help='Verbosity in output')
+# 退出时设置verbose的值为false
 parser.add_argument('--quiet', '-q', dest='verbose', action='store_false', help='Suspend printing of details')
 parser.set_defaults(verbose=True)
 parser.add_argument('--test', action='store_true', help='TEST MODE: process only 1000 subjects, 1000000 events.')

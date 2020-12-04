@@ -15,6 +15,7 @@ parser.add_argument('output_path', type=str, help='Directory where per-subject d
 # 设置后面的参数是可选参数
 parser.add_argument('--event_tables', '-e', type=str, nargs='+', help='Tables from which to read events.',
                     default=['CHARTEVENTS', 'LABEVENTS', 'OUTPUTEVENTS'])
+# __file__表示显示文件当前的位置
 parser.add_argument('--phenotype_definitions', '-p', type=str,
                     default=os.path.join(os.path.dirname(__file__), '../resources/hcup_ccs_2015_definitions.yaml'),
                     help='YAML file with phenotype definitions.')
@@ -60,6 +61,7 @@ if args.verbose:
           stays.HADM_ID.unique().shape[0], stays.SUBJECT_ID.unique().shape[0]))
 
 stays.to_csv(os.path.join(args.output_path, 'all_stays.csv'), index=False)
+
 diagnoses = read_icd_diagnoses_table(args.mimic3_path)
 diagnoses = filter_diagnoses_on_stays(diagnoses, stays)
 diagnoses.to_csv(os.path.join(args.output_path, 'all_diagnoses.csv'), index=False)

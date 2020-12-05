@@ -8,6 +8,7 @@ from tqdm import tqdm
 
 
 def is_subject_folder(x):
+    # isdigit() 方法检测字符串是否只由数字组成。
     return str.isdigit(x)
 
 

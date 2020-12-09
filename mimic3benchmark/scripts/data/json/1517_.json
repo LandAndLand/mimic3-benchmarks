@@ -1,9 +1,9 @@
 {
     "id": 1517.0,
-    "name": "\u5d14\u7eb3",
+    "name": "\u5d14\u80fd",
     "age": 57.10958904109589,
     "weight": 148.60000610351562,
-    "height": NaN,
+    "height": null,
     "gender": "\u7537",
     "ethnicity": "OTHER",
     "chartevents": [
@@ -17,37 +17,37 @@
             "charttime": "2139-09-27 21:30:00",
             "itemid": 8381.0,
             "value": "Strong/Palpable",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:30:00",
             "itemid": 8392.0,
             "value": "Right Femoral",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:30:00",
             "itemid": 8400.0,
             "value": "18 gauge",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:30:00",
             "itemid": 8401.0,
             "value": "16 gauge",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:30:00",
             "itemid": 8456.0,
             "value": "Easily Palpable",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:30:00",
             "itemid": 8480.0,
             "value": "Clear",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:30:00",
@@ -83,7 +83,7 @@
             "charttime": "2139-09-27 23:00:00",
             "itemid": 8365.0,
             "value": "Clean and Dry",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 23:00:00",
@@ -95,13 +95,13 @@
             "charttime": "2139-09-27 23:00:00",
             "itemid": 8381.0,
             "value": "Strong/Palpable",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 23:00:00",
             "itemid": 8456.0,
             "value": "Easily Palpable",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 23:00:00",
@@ -197,13 +197,13 @@
             "charttime": "2139-09-28 02:00:00",
             "itemid": 8381.0,
             "value": "Strong/Palpable",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 02:00:00",
             "itemid": 8456.0,
             "value": "Easily Palpable",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 03:00:00",
@@ -245,13 +245,13 @@
             "charttime": "2139-09-28 04:00:00",
             "itemid": 8381.0,
             "value": "Strong/Palpable",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 04:00:00",
             "itemid": 8456.0,
             "value": "Easily Palpable",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 04:00:00",
@@ -317,19 +317,19 @@
             "charttime": "2139-09-28 06:00:00",
             "itemid": 8392.0,
             "value": "Right Femoral",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 06:00:00",
             "itemid": 8400.0,
             "value": "18 gauge",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 06:00:00",
             "itemid": 8401.0,
             "value": "16 gauge",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 06:00:00",
@@ -365,19 +365,19 @@
             "charttime": "2139-09-28 07:00:00",
             "itemid": 8381.0,
             "value": "Strong/Palpable",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
             "itemid": 8456.0,
             "value": "Strong/Palpable",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
             "itemid": 8480.0,
             "value": "Clear",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
@@ -503,19 +503,19 @@
             "charttime": "2139-09-28 11:00:00",
             "itemid": 8381.0,
             "value": "Strong/Palpable",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 11:00:00",
             "itemid": 8456.0,
             "value": "Strong/Palpable",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 11:00:00",
             "itemid": 8480.0,
             "value": "Clear",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 11:00:00",
@@ -605,7 +605,7 @@
             "charttime": "2139-09-27 21:30:00",
             "itemid": 43.0,
             "value": "Clean and Dry",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:30:00",
@@ -617,37 +617,37 @@
             "charttime": "2139-09-27 21:30:00",
             "itemid": 156.0,
             "value": "Strong/Palpable",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:30:00",
             "itemid": 229.0,
             "value": "A-Line",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:30:00",
             "itemid": 294.0,
             "value": "Left Antecub",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:30:00",
             "itemid": 297.0,
             "value": "LL Post Forearm",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:30:00",
             "itemid": 549.0,
             "value": "Easily Palpable",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:30:00",
             "itemid": 706.0,
             "value": "Yellow",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:30:00",
@@ -683,7 +683,7 @@
             "charttime": "2139-09-27 23:00:00",
             "itemid": 43.0,
             "value": "Clean and Dry",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 23:00:00",
@@ -695,13 +695,13 @@
             "charttime": "2139-09-27 23:00:00",
             "itemid": 156.0,
             "value": "Strong/Palpable",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 23:00:00",
             "itemid": 549.0,
             "value": "Easily Palpable",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 23:00:00",
@@ -791,7 +791,7 @@
             "charttime": "2139-09-28 02:00:00",
             "itemid": 43.0,
             "value": "Clean and Dry",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 02:00:00",
@@ -803,13 +803,13 @@
             "charttime": "2139-09-28 02:00:00",
             "itemid": 156.0,
             "value": "Strong/Palpable",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 02:00:00",
             "itemid": 549.0,
             "value": "Easily Palpable",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 03:00:00",
@@ -845,7 +845,7 @@
             "charttime": "2139-09-28 04:00:00",
             "itemid": 43.0,
             "value": "Clean and Dry",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 04:00:00",
@@ -857,13 +857,13 @@
             "charttime": "2139-09-28 04:00:00",
             "itemid": 156.0,
             "value": "Strong/Palpable",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 04:00:00",
             "itemid": 549.0,
             "value": "Easily Palpable",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 04:00:00",
@@ -929,19 +929,19 @@
             "charttime": "2139-09-28 06:00:00",
             "itemid": 229.0,
             "value": "A-Line",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 06:00:00",
             "itemid": 294.0,
             "value": "Left Antecub",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 06:00:00",
             "itemid": 297.0,
             "value": "LL Post Forearm",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 06:00:00",
@@ -971,7 +971,7 @@
             "charttime": "2139-09-28 07:00:00",
             "itemid": 43.0,
             "value": "Clean and Dry",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
@@ -983,31 +983,31 @@
             "charttime": "2139-09-28 07:00:00",
             "itemid": 156.0,
             "value": "Strong/Palpable",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
             "itemid": 526.0,
             "value": "PO Med",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
             "itemid": 549.0,
             "value": "Strong/Palpable",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
             "itemid": 706.0,
             "value": "Yellow",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
             "itemid": 1427.0,
             "value": "H2 Blocker",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
@@ -1127,7 +1127,7 @@
             "charttime": "2139-09-28 11:00:00",
             "itemid": 43.0,
             "value": "Oozing",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 11:00:00",
@@ -1139,25 +1139,25 @@
             "charttime": "2139-09-28 11:00:00",
             "itemid": 156.0,
             "value": "Strong/Palpable",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 11:00:00",
             "itemid": 526.0,
             "value": "PO Med",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 11:00:00",
             "itemid": 549.0,
             "value": "Strong/Palpable",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 11:00:00",
             "itemid": 706.0,
             "value": "Yellow",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 11:00:00",
@@ -1247,19 +1247,19 @@
             "charttime": "2139-09-27 23:38:00",
             "itemid": 916.0,
             "value": "Penicillins",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 23:38:00",
             "itemid": 917.0,
             "value": "CORONARY ARTERY DISEASE",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 23:38:00",
             "itemid": 919.0,
             "value": "CME",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 23:38:00",
@@ -1270,38 +1270,38 @@
         {
             "charttime": "2139-09-27 23:38:00",
             "itemid": 924.0,
-            "value": NaN,
-            "valueuom": NaN
+            "value": null,
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 23:38:00",
             "itemid": 925.0,
             "value": "M",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 23:38:00",
             "itemid": 926.0,
             "value": "RCA",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 23:38:00",
             "itemid": 927.0,
-            "value": NaN,
-            "valueuom": NaN
+            "value": null,
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 23:38:00",
             "itemid": 930.0,
-            "value": NaN,
-            "valueuom": NaN
+            "value": null,
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 23:38:00",
             "itemid": 935.0,
-            "value": NaN,
-            "valueuom": NaN
+            "value": null,
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 00:00:00",
@@ -1313,13 +1313,13 @@
             "charttime": "2139-09-28 00:00:00",
             "itemid": 159.0,
             "value": "Occasional",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 00:00:00",
             "itemid": 161.0,
             "value": "PVC's",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 00:00:00",
@@ -1331,7 +1331,7 @@
             "charttime": "2139-09-28 00:00:00",
             "itemid": 212.0,
             "value": "Normal Sinus",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 00:00:00",
@@ -1355,7 +1355,7 @@
             "charttime": "2139-09-28 00:00:00",
             "itemid": 1484.0,
             "value": "Yes",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 01:00:00",
@@ -1385,13 +1385,13 @@
             "charttime": "2139-09-28 01:00:00",
             "itemid": 1484.0,
             "value": "Yes",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 02:00:00",
             "itemid": 47.0,
             "value": "R Femoral",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 02:00:00",
@@ -1403,19 +1403,19 @@
             "charttime": "2139-09-28 02:00:00",
             "itemid": 159.0,
             "value": "Frequent",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 02:00:00",
             "itemid": 161.0,
             "value": "PVC's",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 02:00:00",
             "itemid": 184.0,
             "value": "4 Spontaneously",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 02:00:00",
@@ -1433,25 +1433,25 @@
             "charttime": "2139-09-28 02:00:00",
             "itemid": 212.0,
             "value": "Normal Sinus",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 02:00:00",
             "itemid": 432.0,
             "value": "Alert",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 02:00:00",
             "itemid": 454.0,
             "value": "6 Obeys Commands",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 02:00:00",
             "itemid": 479.0,
             "value": "Oriented x 3",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 02:00:00",
@@ -1469,7 +1469,7 @@
             "charttime": "2139-09-28 02:00:00",
             "itemid": 723.0,
             "value": "5 Oriented",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 02:00:00",
@@ -1487,13 +1487,13 @@
             "charttime": "2139-09-28 03:00:00",
             "itemid": 159.0,
             "value": "Occasional",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 03:00:00",
             "itemid": 161.0,
             "value": "PVC's",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 03:00:00",
@@ -1505,7 +1505,7 @@
             "charttime": "2139-09-28 03:00:00",
             "itemid": 212.0,
             "value": "Normal Sinus",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 03:00:00",
@@ -1529,25 +1529,25 @@
             "charttime": "2139-09-28 03:00:00",
             "itemid": 1484.0,
             "value": "Yes",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 03:52:00",
             "itemid": 781.0,
             "value": "14",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 03:52:00",
             "itemid": 784.0,
             "value": "1718",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 03:52:00",
             "itemid": 785.0,
             "value": "328",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 03:52:00",
@@ -1559,25 +1559,25 @@
             "charttime": "2139-09-28 03:52:00",
             "itemid": 787.0,
             "value": "25",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 03:52:00",
             "itemid": 788.0,
             "value": "105",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 03:52:00",
             "itemid": 791.0,
             "value": ".7",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 03:52:00",
             "itemid": 811.0,
             "value": "88",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 03:52:00",
@@ -1595,25 +1595,25 @@
             "charttime": "2139-09-28 03:52:00",
             "itemid": 815.0,
             "value": "1.1",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 03:52:00",
             "itemid": 821.0,
             "value": "1.9",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 03:52:00",
             "itemid": 824.0,
             "value": "13",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 03:52:00",
             "itemid": 825.0,
             "value": "44.7",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 03:52:00",
@@ -1625,13 +1625,13 @@
             "charttime": "2139-09-28 03:52:00",
             "itemid": 828.0,
             "value": "206",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 03:52:00",
             "itemid": 829.0,
             "value": "4",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 03:52:00",
@@ -1643,25 +1643,25 @@
             "charttime": "2139-09-28 03:52:00",
             "itemid": 837.0,
             "value": "139",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 03:52:00",
             "itemid": 861.0,
             "value": "9.4",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 03:52:00",
             "itemid": 1127.0,
             "value": "9.4",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 12:00:00",
             "itemid": 161.0,
             "value": "PVC's",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 12:00:00",
@@ -1673,13 +1673,13 @@
             "charttime": "2139-09-28 12:00:00",
             "itemid": 212.0,
             "value": "Normal Sinus",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 12:00:00",
             "itemid": 524.0,
             "value": "2-Mild",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 12:00:00",
@@ -1709,25 +1709,25 @@
             "charttime": "2139-09-28 12:00:00",
             "itemid": 1044.0,
             "value": "2-Mild",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 12:00:00",
             "itemid": 1087.0,
             "value": "Pt Verbalized",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 12:00:00",
             "itemid": 1337.0,
             "value": "Calm/Cooperative",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 12:00:00",
             "itemid": 1484.0,
             "value": "Yes",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 13:00:00",
@@ -1739,13 +1739,13 @@
             "charttime": "2139-09-28 13:00:00",
             "itemid": 159.0,
             "value": "Runs Vtach",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 13:00:00",
             "itemid": 161.0,
             "value": "PVC's",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 13:00:00",
@@ -1757,7 +1757,7 @@
             "charttime": "2139-09-28 13:00:00",
             "itemid": 212.0,
             "value": "Normal Sinus",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 13:00:00",
@@ -1787,25 +1787,25 @@
             "charttime": "2139-09-28 13:00:00",
             "itemid": 1337.0,
             "value": "Calm/Cooperative",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 13:00:00",
             "itemid": 1484.0,
             "value": "Yes",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 13:14:00",
             "itemid": 783.0,
             "value": "Y",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:30:00",
             "itemid": 467.0,
             "value": "Nasal Cannula",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:30:00",
@@ -1817,13 +1817,13 @@
             "charttime": "2139-09-27 21:30:00",
             "itemid": 478.0,
             "value": "Teeth/Tissue WNL",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:30:00",
             "itemid": 479.0,
             "value": "Oriented x 3",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:30:00",
@@ -1835,7 +1835,7 @@
             "charttime": "2139-09-27 21:30:00",
             "itemid": 644.0,
             "value": "Intact",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:30:00",
@@ -1847,7 +1847,7 @@
             "charttime": "2139-09-27 21:30:00",
             "itemid": 674.0,
             "value": "Oral",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:30:00",
@@ -1865,13 +1865,13 @@
             "charttime": "2139-09-27 21:30:00",
             "itemid": 707.0,
             "value": "Voids",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:30:00",
             "itemid": 723.0,
             "value": "5 Oriented",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:30:00",
@@ -1883,31 +1883,31 @@
             "charttime": "2139-09-27 21:30:00",
             "itemid": 1337.0,
             "value": "Calm/Cooperative",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:30:00",
             "itemid": 1484.0,
             "value": "Yes",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:30:00",
             "itemid": 1622.0,
             "value": "ON",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:30:00",
             "itemid": 1623.0,
             "value": "Yes",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:51:00",
             "itemid": 781.0,
             "value": "14",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:51:00",
@@ -1919,25 +1919,25 @@
             "charttime": "2139-09-27 21:51:00",
             "itemid": 787.0,
             "value": "26",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:51:00",
             "itemid": 788.0,
             "value": "103",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:51:00",
             "itemid": 791.0,
             "value": ".7",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:51:00",
             "itemid": 811.0,
             "value": "129",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:51:00",
@@ -1955,7 +1955,7 @@
             "charttime": "2139-09-27 21:51:00",
             "itemid": 821.0,
             "value": "1.8",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:51:00",
@@ -1967,13 +1967,13 @@
             "charttime": "2139-09-27 21:51:00",
             "itemid": 828.0,
             "value": "207",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:51:00",
             "itemid": 829.0,
             "value": "4.4",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:51:00",
@@ -1985,25 +1985,25 @@
             "charttime": "2139-09-27 21:51:00",
             "itemid": 837.0,
             "value": "136",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:51:00",
             "itemid": 861.0,
             "value": "10.1",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:51:00",
             "itemid": 1127.0,
             "value": "10.1",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:51:00",
             "itemid": 1162.0,
             "value": "14",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:51:00",
@@ -2015,25 +2015,25 @@
             "charttime": "2139-09-27 21:51:00",
             "itemid": 1523.0,
             "value": "103",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:51:00",
             "itemid": 1525.0,
             "value": ".7",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:51:00",
             "itemid": 1529.0,
             "value": "129",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:51:00",
             "itemid": 1532.0,
             "value": "1.8",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:51:00",
@@ -2045,19 +2045,19 @@
             "charttime": "2139-09-27 21:51:00",
             "itemid": 1535.0,
             "value": "4.4",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:51:00",
             "itemid": 1536.0,
             "value": "136",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:51:00",
             "itemid": 1542.0,
             "value": "10.1",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 22:00:00",
@@ -2069,13 +2069,13 @@
             "charttime": "2139-09-27 22:00:00",
             "itemid": 159.0,
             "value": "Occasional",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 22:00:00",
             "itemid": 161.0,
             "value": "PVC's",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 22:00:00",
@@ -2087,7 +2087,7 @@
             "charttime": "2139-09-27 22:00:00",
             "itemid": 212.0,
             "value": "Normal Sinus",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 22:00:00",
@@ -2111,7 +2111,7 @@
             "charttime": "2139-09-27 23:00:00",
             "itemid": 47.0,
             "value": "R Femoral",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 23:00:00",
@@ -2123,13 +2123,13 @@
             "charttime": "2139-09-27 23:00:00",
             "itemid": 159.0,
             "value": "Occasional",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 23:00:00",
             "itemid": 161.0,
             "value": "PVC's",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 23:00:00",
@@ -2141,37 +2141,37 @@
             "charttime": "2139-09-27 23:00:00",
             "itemid": 212.0,
             "value": "Normal Sinus",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 23:00:00",
             "itemid": 425.0,
             "value": "Clear",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 23:00:00",
             "itemid": 428.0,
             "value": "Clear",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 23:00:00",
             "itemid": 593.0,
             "value": "Clear",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 23:00:00",
             "itemid": 599.0,
             "value": "Clear",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 23:00:00",
             "itemid": 617.0,
             "value": "Regular",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 23:00:00",
@@ -2189,7 +2189,7 @@
             "charttime": "2139-09-27 23:00:00",
             "itemid": 1484.0,
             "value": "Yes",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 23:38:00",
@@ -2231,37 +2231,37 @@
             "charttime": "2139-09-28 09:00:00",
             "itemid": 1044.0,
             "value": "2-Mild",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 09:00:00",
             "itemid": 1046.0,
             "value": "Yes",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 09:00:00",
             "itemid": 1087.0,
             "value": "Pt Verbalized",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 09:00:00",
             "itemid": 1089.0,
             "value": "Yes",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 09:00:00",
             "itemid": 1337.0,
             "value": "Calm/Cooperative",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 09:00:00",
             "itemid": 1484.0,
             "value": "Yes",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 10:00:00",
@@ -2273,13 +2273,13 @@
             "charttime": "2139-09-28 10:00:00",
             "itemid": 159.0,
             "value": "Rare",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 10:00:00",
             "itemid": 161.0,
             "value": "PVC's",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 10:00:00",
@@ -2291,7 +2291,7 @@
             "charttime": "2139-09-28 10:00:00",
             "itemid": 212.0,
             "value": "Normal Sinus",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 10:00:00",
@@ -2321,31 +2321,31 @@
             "charttime": "2139-09-28 10:00:00",
             "itemid": 1484.0,
             "value": "Yes",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 10:36:00",
             "itemid": 825.0,
             "value": "56.9",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 10:36:00",
             "itemid": 1533.0,
             "value": "56.9",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 11:00:00",
             "itemid": 27.0,
             "value": "Soft Distended",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 11:00:00",
             "itemid": 47.0,
             "value": "R Femoral",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 11:00:00",
@@ -2357,37 +2357,37 @@
             "charttime": "2139-09-28 11:00:00",
             "itemid": 80.0,
             "value": "Present",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 11:00:00",
             "itemid": 82.0,
             "value": "Bedfast",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 11:00:00",
             "itemid": 83.0,
             "value": "No Apparent Prob",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 11:00:00",
             "itemid": 84.0,
             "value": "Sl. Limited",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 11:00:00",
             "itemid": 85.0,
             "value": "Rarely Moist",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 11:00:00",
             "itemid": 86.0,
             "value": "Excellent",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 11:00:00",
@@ -2399,31 +2399,31 @@
             "charttime": "2139-09-28 11:00:00",
             "itemid": 88.0,
             "value": "No Impairment",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 11:00:00",
             "itemid": 154.0,
             "value": "NAS/Low Cholest",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 11:00:00",
             "itemid": 159.0,
             "value": "Rare",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 11:00:00",
             "itemid": 161.0,
             "value": "PVC's",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 11:00:00",
             "itemid": 184.0,
             "value": "4 Spontaneously",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 11:00:00",
@@ -2441,55 +2441,55 @@
             "charttime": "2139-09-28 11:00:00",
             "itemid": 212.0,
             "value": "Normal Sinus",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 11:00:00",
             "itemid": 425.0,
             "value": "Clear",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 11:00:00",
             "itemid": 428.0,
             "value": "Clear",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 11:00:00",
             "itemid": 432.0,
             "value": "Alert",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 11:00:00",
             "itemid": 454.0,
             "value": "6 Obeys Commands",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 11:00:00",
             "itemid": 467.0,
             "value": "None",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 11:00:00",
             "itemid": 478.0,
             "value": "Teeth/Tissue WNL",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 11:00:00",
             "itemid": 479.0,
             "value": "Oriented x 3",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 11:00:00",
             "itemid": 524.0,
             "value": "5-Moderate",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 11:00:00",
@@ -2501,19 +2501,19 @@
             "charttime": "2139-09-28 11:00:00",
             "itemid": 593.0,
             "value": "Clear",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 11:00:00",
             "itemid": 599.0,
             "value": "Clear",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 11:00:00",
             "itemid": 617.0,
             "value": "Regular",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 11:00:00",
@@ -2525,13 +2525,13 @@
             "charttime": "2139-09-28 11:00:00",
             "itemid": 637.0,
             "value": "Side Rails Up",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 11:00:00",
             "itemid": 644.0,
             "value": "Intact",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 11:00:00",
@@ -2543,7 +2543,7 @@
             "charttime": "2139-09-28 11:00:00",
             "itemid": 674.0,
             "value": "Oral",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 11:00:00",
@@ -2561,13 +2561,13 @@
             "charttime": "2139-09-28 11:00:00",
             "itemid": 707.0,
             "value": "Voids",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 11:00:00",
             "itemid": 723.0,
             "value": "5 Oriented",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 11:00:00",
@@ -2579,19 +2579,19 @@
             "charttime": "2139-09-28 11:00:00",
             "itemid": 1044.0,
             "value": "5-Moderate",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 11:00:00",
             "itemid": 1087.0,
             "value": "Pt Verbalized",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 11:00:00",
             "itemid": 1484.0,
             "value": "Yes",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 12:00:00",
@@ -2603,19 +2603,19 @@
             "charttime": "2139-09-28 12:00:00",
             "itemid": 159.0,
             "value": "Rare",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:30:00",
             "itemid": 27.0,
             "value": "Obese",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:30:00",
             "itemid": 47.0,
             "value": "R Femoral",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:30:00",
@@ -2627,37 +2627,37 @@
             "charttime": "2139-09-27 21:30:00",
             "itemid": 80.0,
             "value": "Present",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:30:00",
             "itemid": 82.0,
             "value": "Bedfast",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:30:00",
             "itemid": 83.0,
             "value": "Potential Prob",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:30:00",
             "itemid": 84.0,
             "value": "Very Limited",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:30:00",
             "itemid": 85.0,
             "value": "Rarely Moist",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:30:00",
             "itemid": 86.0,
             "value": "Adequate",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:30:00",
@@ -2669,31 +2669,31 @@
             "charttime": "2139-09-27 21:30:00",
             "itemid": 88.0,
             "value": "No Impairment",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:30:00",
             "itemid": 154.0,
             "value": "NAS/Low Cholest",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:30:00",
             "itemid": 159.0,
             "value": "Rare",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:30:00",
             "itemid": 161.0,
             "value": "PVC's",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:30:00",
             "itemid": 184.0,
             "value": "4 Spontaneously",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:30:00",
@@ -2711,43 +2711,43 @@
             "charttime": "2139-09-27 21:30:00",
             "itemid": 212.0,
             "value": "Normal Sinus",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:30:00",
             "itemid": 232.0,
             "value": "WNL",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:30:00",
             "itemid": 324.0,
             "value": "WNL",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:30:00",
             "itemid": 325.0,
             "value": "WNL",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:30:00",
             "itemid": 432.0,
             "value": "Alert",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:30:00",
             "itemid": 454.0,
             "value": "6 Obeys Commands",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
             "itemid": 86.0,
             "value": "Excellent",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
@@ -2759,79 +2759,79 @@
             "charttime": "2139-09-28 07:00:00",
             "itemid": 88.0,
             "value": "No Impairment",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
             "itemid": 154.0,
             "value": "NAS/Low Cholest",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
             "itemid": 159.0,
             "value": "None",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
             "itemid": 161.0,
             "value": "None",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
             "itemid": 165.0,
             "value": "None",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
             "itemid": 166.0,
             "value": "Not Given",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
             "itemid": 167.0,
             "value": "Patient",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
             "itemid": 168.0,
             "value": "Explanation",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
             "itemid": 169.0,
             "value": "Yes",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
             "itemid": 170.0,
             "value": "Reinforced",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
             "itemid": 171.0,
             "value": "Disease Process",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
             "itemid": 172.0,
             "value": "Cardiac Cath",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
             "itemid": 184.0,
             "value": "4 Spontaneously",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
@@ -2849,91 +2849,91 @@
             "charttime": "2139-09-28 07:00:00",
             "itemid": 212.0,
             "value": "Normal Sinus",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
             "itemid": 425.0,
             "value": "Clear",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
             "itemid": 428.0,
             "value": "Clear",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
             "itemid": 432.0,
             "value": "Alert",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
             "itemid": 454.0,
             "value": "6 Obeys Commands",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
             "itemid": 467.0,
             "value": "None",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
             "itemid": 478.0,
             "value": "Teeth/Tissue WNL",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
             "itemid": 479.0,
             "value": "Oriented x 3",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
             "itemid": 522.0,
             "value": "At Rest",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
             "itemid": 524.0,
             "value": "5-Moderate",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
             "itemid": 525.0,
             "value": "Back",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
             "itemid": 527.0,
             "value": "Aching",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
             "itemid": 593.0,
             "value": "Clear",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
             "itemid": 599.0,
             "value": "Clear",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
             "itemid": 617.0,
             "value": "Regular",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
@@ -2945,13 +2945,13 @@
             "charttime": "2139-09-28 07:00:00",
             "itemid": 637.0,
             "value": "Side Rails Up",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
             "itemid": 644.0,
             "value": "Intact",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
@@ -2963,13 +2963,13 @@
             "charttime": "2139-09-28 07:00:00",
             "itemid": 707.0,
             "value": "Voids",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
             "itemid": 723.0,
             "value": "5 Oriented",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
@@ -2981,43 +2981,43 @@
             "charttime": "2139-09-28 07:00:00",
             "itemid": 1044.0,
             "value": "5-Moderate",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
             "itemid": 1045.0,
             "value": "3-Mild to Mod",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
             "itemid": 1046.0,
             "value": "Yes",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
             "itemid": 1087.0,
             "value": "Pt Verbalized",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
             "itemid": 1089.0,
             "value": "Yes",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
             "itemid": 1337.0,
             "value": "Calm/Cooperative",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
             "itemid": 1484.0,
             "value": "Yes",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 08:00:00",
@@ -3029,13 +3029,13 @@
             "charttime": "2139-09-28 08:00:00",
             "itemid": 159.0,
             "value": "None",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 08:00:00",
             "itemid": 161.0,
             "value": "None",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 08:00:00",
@@ -3047,13 +3047,13 @@
             "charttime": "2139-09-28 08:00:00",
             "itemid": 212.0,
             "value": "Normal Sinus",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 08:00:00",
             "itemid": 467.0,
             "value": "None",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 08:00:00",
@@ -3077,7 +3077,7 @@
             "charttime": "2139-09-28 08:00:00",
             "itemid": 1484.0,
             "value": "Yes",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 09:00:00",
@@ -3101,13 +3101,13 @@
             "charttime": "2139-09-28 09:00:00",
             "itemid": 159.0,
             "value": "Rare",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 09:00:00",
             "itemid": 161.0,
             "value": "PVC's",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 09:00:00",
@@ -3119,13 +3119,13 @@
             "charttime": "2139-09-28 09:00:00",
             "itemid": 212.0,
             "value": "Normal Sinus",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 09:00:00",
             "itemid": 524.0,
             "value": "2-Mild",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 09:00:00",
@@ -3149,13 +3149,13 @@
             "charttime": "2139-09-28 03:52:00",
             "itemid": 1162.0,
             "value": "14",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 03:52:00",
             "itemid": 1286.0,
             "value": "13",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 03:52:00",
@@ -3167,37 +3167,37 @@
             "charttime": "2139-09-28 03:52:00",
             "itemid": 1523.0,
             "value": "105",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 03:52:00",
             "itemid": 1525.0,
             "value": ".7",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 03:52:00",
             "itemid": 1529.0,
             "value": "88",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 03:52:00",
             "itemid": 1530.0,
             "value": "1.1",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 03:52:00",
             "itemid": 1532.0,
             "value": "1.9",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 03:52:00",
             "itemid": 1533.0,
             "value": "44.7",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 03:52:00",
@@ -3209,25 +3209,25 @@
             "charttime": "2139-09-28 03:52:00",
             "itemid": 1535.0,
             "value": "4",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 03:52:00",
             "itemid": 1536.0,
             "value": "139",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 03:52:00",
             "itemid": 1542.0,
             "value": "9.4",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 04:00:00",
             "itemid": 47.0,
             "value": "R Femoral",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 04:00:00",
@@ -3239,13 +3239,13 @@
             "charttime": "2139-09-28 04:00:00",
             "itemid": 159.0,
             "value": "Occasional",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 04:00:00",
             "itemid": 161.0,
             "value": "PVC's",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 04:00:00",
@@ -3257,37 +3257,37 @@
             "charttime": "2139-09-28 04:00:00",
             "itemid": 212.0,
             "value": "Normal Sinus",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 04:00:00",
             "itemid": 425.0,
             "value": "Clear",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 04:00:00",
             "itemid": 428.0,
             "value": "Clear",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 04:00:00",
             "itemid": 593.0,
             "value": "Clear",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 04:00:00",
             "itemid": 599.0,
             "value": "Clear",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 04:00:00",
             "itemid": 617.0,
             "value": "Regular",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 04:00:00",
@@ -3305,7 +3305,7 @@
             "charttime": "2139-09-28 04:00:00",
             "itemid": 674.0,
             "value": "Oral",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 04:00:00",
@@ -3329,19 +3329,19 @@
             "charttime": "2139-09-28 04:00:00",
             "itemid": 1484.0,
             "value": "Yes",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 04:00:00",
             "itemid": 1622.0,
             "value": "ON",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 04:00:00",
             "itemid": 1623.0,
             "value": "Yes",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 05:00:00",
@@ -3353,13 +3353,13 @@
             "charttime": "2139-09-28 05:00:00",
             "itemid": 159.0,
             "value": "Occasional",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 05:00:00",
             "itemid": 161.0,
             "value": "PVC's",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 05:00:00",
@@ -3371,7 +3371,7 @@
             "charttime": "2139-09-28 05:00:00",
             "itemid": 212.0,
             "value": "Normal Sinus",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 05:00:00",
@@ -3395,7 +3395,7 @@
             "charttime": "2139-09-28 05:00:00",
             "itemid": 1484.0,
             "value": "Yes",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 06:00:00",
@@ -3407,13 +3407,13 @@
             "charttime": "2139-09-28 06:00:00",
             "itemid": 159.0,
             "value": "Rare",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 06:00:00",
             "itemid": 161.0,
             "value": "PVC's",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 06:00:00",
@@ -3425,31 +3425,31 @@
             "charttime": "2139-09-28 06:00:00",
             "itemid": 212.0,
             "value": "Normal Sinus",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 06:00:00",
             "itemid": 232.0,
             "value": "Bleeding",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 06:00:00",
             "itemid": 324.0,
             "value": "WNL",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 06:00:00",
             "itemid": 325.0,
             "value": "WNL",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 06:00:00",
             "itemid": 467.0,
             "value": "None",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 06:00:00",
@@ -3467,7 +3467,7 @@
             "charttime": "2139-09-28 06:00:00",
             "itemid": 674.0,
             "value": "Oral",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 06:00:00",
@@ -3491,31 +3491,31 @@
             "charttime": "2139-09-28 06:00:00",
             "itemid": 1484.0,
             "value": "Yes",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 06:00:00",
             "itemid": 1622.0,
             "value": "ON",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 06:00:00",
             "itemid": 1623.0,
             "value": "Yes",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
             "itemid": 27.0,
             "value": "Soft Distended",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
             "itemid": 47.0,
             "value": "R Femoral",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
@@ -3527,31 +3527,31 @@
             "charttime": "2139-09-28 07:00:00",
             "itemid": 80.0,
             "value": "Present",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
             "itemid": 82.0,
             "value": "Bedfast",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
             "itemid": 83.0,
             "value": "No Apparent Prob",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
             "itemid": 84.0,
             "value": "Sl. Limited",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 07:00:00",
             "itemid": 85.0,
             "value": "Rarely Moist",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-27 21:51:00",
@@ -3743,7 +3743,7 @@
             "charttime": "2139-09-28 03:52:00",
             "itemid": 51237.0,
             "value": "1.1",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-28 03:52:00",
@@ -4121,7 +4121,7 @@
             "charttime": "2139-09-30 03:31:00",
             "itemid": 51237.0,
             "value": "1.2",
-            "valueuom": NaN
+            "valueuom": null
         },
         {
             "charttime": "2139-09-30 03:31:00",

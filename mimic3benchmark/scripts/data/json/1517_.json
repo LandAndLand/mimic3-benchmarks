@@ -1,0 +1,4277 @@
+{
+    "id": 1517.0,
+    "name": "\u5d14\u7eb3",
+    "age": 57.10958904109589,
+    "weight": 148.60000610351562,
+    "height": NaN,
+    "gender": "\u7537",
+    "ethnicity": "OTHER",
+    "chartevents": [
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 8368.0,
+            "value": "74",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 8381.0,
+            "value": "Strong/Palpable",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 8392.0,
+            "value": "Right Femoral",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 8400.0,
+            "value": "18 gauge",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 8401.0,
+            "value": "16 gauge",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 8456.0,
+            "value": "Easily Palpable",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 8480.0,
+            "value": "Clear",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 8547.0,
+            "value": "165",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 8549.0,
+            "value": "120",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 8553.0,
+            "value": "40",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 8554.0,
+            "value": "100",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-27 22:00:00",
+            "itemid": 8368.0,
+            "value": "78",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-27 23:00:00",
+            "itemid": 8365.0,
+            "value": "Clean and Dry",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 23:00:00",
+            "itemid": 8368.0,
+            "value": "78",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-27 23:00:00",
+            "itemid": 8381.0,
+            "value": "Strong/Palpable",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 23:00:00",
+            "itemid": 8456.0,
+            "value": "Easily Palpable",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 23:00:00",
+            "itemid": 8547.0,
+            "value": "165",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-27 23:00:00",
+            "itemid": 8549.0,
+            "value": "120",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-27 23:00:00",
+            "itemid": 8553.0,
+            "value": "40",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-27 23:00:00",
+            "itemid": 8554.0,
+            "value": "100",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-28 00:00:00",
+            "itemid": 8368.0,
+            "value": "89",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 00:00:00",
+            "itemid": 8547.0,
+            "value": "165",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 00:00:00",
+            "itemid": 8549.0,
+            "value": "120",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 00:00:00",
+            "itemid": 8553.0,
+            "value": "40",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 00:00:00",
+            "itemid": 8554.0,
+            "value": "100",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-28 01:00:00",
+            "itemid": 8368.0,
+            "value": "64",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 01:00:00",
+            "itemid": 8547.0,
+            "value": "165",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 01:00:00",
+            "itemid": 8549.0,
+            "value": "120",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 01:00:00",
+            "itemid": 8553.0,
+            "value": "40",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 01:00:00",
+            "itemid": 8554.0,
+            "value": "100",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-28 02:00:00",
+            "itemid": 8368.0,
+            "value": "77",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 02:00:00",
+            "itemid": 8381.0,
+            "value": "Strong/Palpable",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 02:00:00",
+            "itemid": 8456.0,
+            "value": "Easily Palpable",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 03:00:00",
+            "itemid": 8368.0,
+            "value": "70",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 03:00:00",
+            "itemid": 8547.0,
+            "value": "165",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 03:00:00",
+            "itemid": 8549.0,
+            "value": "120",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 03:00:00",
+            "itemid": 8553.0,
+            "value": "40",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 03:00:00",
+            "itemid": 8554.0,
+            "value": "100",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-28 04:00:00",
+            "itemid": 8368.0,
+            "value": "78",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 04:00:00",
+            "itemid": 8381.0,
+            "value": "Strong/Palpable",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 04:00:00",
+            "itemid": 8456.0,
+            "value": "Easily Palpable",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 04:00:00",
+            "itemid": 8547.0,
+            "value": "165",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 04:00:00",
+            "itemid": 8549.0,
+            "value": "120",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 04:00:00",
+            "itemid": 8553.0,
+            "value": "40",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 04:00:00",
+            "itemid": 8554.0,
+            "value": "100",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-28 05:00:00",
+            "itemid": 8368.0,
+            "value": "79",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 05:00:00",
+            "itemid": 8547.0,
+            "value": "165",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 05:00:00",
+            "itemid": 8549.0,
+            "value": "120",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 05:00:00",
+            "itemid": 8553.0,
+            "value": "40",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 05:00:00",
+            "itemid": 8554.0,
+            "value": "100",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-28 06:00:00",
+            "itemid": 8368.0,
+            "value": "81",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 06:00:00",
+            "itemid": 8392.0,
+            "value": "Right Femoral",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 06:00:00",
+            "itemid": 8400.0,
+            "value": "18 gauge",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 06:00:00",
+            "itemid": 8401.0,
+            "value": "16 gauge",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 06:00:00",
+            "itemid": 8547.0,
+            "value": "160",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 06:00:00",
+            "itemid": 8549.0,
+            "value": "120",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 06:00:00",
+            "itemid": 8553.0,
+            "value": "40",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 06:00:00",
+            "itemid": 8554.0,
+            "value": "100",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 8368.0,
+            "value": "86",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 8381.0,
+            "value": "Strong/Palpable",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 8456.0,
+            "value": "Strong/Palpable",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 8480.0,
+            "value": "Clear",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 8547.0,
+            "value": "165",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 8549.0,
+            "value": "120",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 8553.0,
+            "value": "40",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 8554.0,
+            "value": "100",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-28 08:00:00",
+            "itemid": 8368.0,
+            "value": "78",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 08:00:00",
+            "itemid": 8547.0,
+            "value": "165",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 08:00:00",
+            "itemid": 8549.0,
+            "value": "120",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 08:00:00",
+            "itemid": 8553.0,
+            "value": "40",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 08:00:00",
+            "itemid": 8554.0,
+            "value": "100",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-28 09:00:00",
+            "itemid": 8368.0,
+            "value": "74",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 09:00:00",
+            "itemid": 8547.0,
+            "value": "165",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 09:00:00",
+            "itemid": 8549.0,
+            "value": "120",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 09:00:00",
+            "itemid": 8553.0,
+            "value": "40",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 09:00:00",
+            "itemid": 8554.0,
+            "value": "100",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-28 10:00:00",
+            "itemid": 8368.0,
+            "value": "76",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 10:00:00",
+            "itemid": 8547.0,
+            "value": "165",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 10:00:00",
+            "itemid": 8549.0,
+            "value": "120",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 10:00:00",
+            "itemid": 8553.0,
+            "value": "40",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 10:00:00",
+            "itemid": 8554.0,
+            "value": "100",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 8368.0,
+            "value": "77",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 8381.0,
+            "value": "Strong/Palpable",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 8456.0,
+            "value": "Strong/Palpable",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 8480.0,
+            "value": "Clear",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 8547.0,
+            "value": "165",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 8549.0,
+            "value": "120",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 8553.0,
+            "value": "40",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 8554.0,
+            "value": "100",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-28 12:00:00",
+            "itemid": 8368.0,
+            "value": "79",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 12:00:00",
+            "itemid": 8547.0,
+            "value": "165",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 12:00:00",
+            "itemid": 8549.0,
+            "value": "120",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 12:00:00",
+            "itemid": 8553.0,
+            "value": "40",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 12:00:00",
+            "itemid": 8554.0,
+            "value": "100",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-28 13:00:00",
+            "itemid": 8368.0,
+            "value": "74",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 13:00:00",
+            "itemid": 8547.0,
+            "value": "165",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 13:00:00",
+            "itemid": 8549.0,
+            "value": "120",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 13:00:00",
+            "itemid": 8553.0,
+            "value": "40",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 13:00:00",
+            "itemid": 8554.0,
+            "value": "100",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 43.0,
+            "value": "Clean and Dry",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 51.0,
+            "value": "117",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 156.0,
+            "value": "Strong/Palpable",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 229.0,
+            "value": "A-Line",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 294.0,
+            "value": "Left Antecub",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 297.0,
+            "value": "LL Post Forearm",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 549.0,
+            "value": "Easily Palpable",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 706.0,
+            "value": "Yellow",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 5813.0,
+            "value": "95",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 5815.0,
+            "value": "50",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 5819.0,
+            "value": "8",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 5820.0,
+            "value": "90",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-27 22:00:00",
+            "itemid": 51.0,
+            "value": "124",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-27 23:00:00",
+            "itemid": 43.0,
+            "value": "Clean and Dry",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 23:00:00",
+            "itemid": 51.0,
+            "value": "129",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-27 23:00:00",
+            "itemid": 156.0,
+            "value": "Strong/Palpable",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 23:00:00",
+            "itemid": 549.0,
+            "value": "Easily Palpable",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 23:00:00",
+            "itemid": 5813.0,
+            "value": "95",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-27 23:00:00",
+            "itemid": 5815.0,
+            "value": "50",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-27 23:00:00",
+            "itemid": 5819.0,
+            "value": "8",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-27 23:00:00",
+            "itemid": 5820.0,
+            "value": "90",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-28 00:00:00",
+            "itemid": 51.0,
+            "value": "139",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 00:00:00",
+            "itemid": 5813.0,
+            "value": "95",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 00:00:00",
+            "itemid": 5815.0,
+            "value": "50",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 00:00:00",
+            "itemid": 5819.0,
+            "value": "8",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 00:00:00",
+            "itemid": 5820.0,
+            "value": "90",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-28 01:00:00",
+            "itemid": 51.0,
+            "value": "95",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 01:00:00",
+            "itemid": 5813.0,
+            "value": "95",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 01:00:00",
+            "itemid": 5815.0,
+            "value": "50",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 01:00:00",
+            "itemid": 5819.0,
+            "value": "8",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 01:00:00",
+            "itemid": 5820.0,
+            "value": "90",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-28 02:00:00",
+            "itemid": 43.0,
+            "value": "Clean and Dry",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 02:00:00",
+            "itemid": 51.0,
+            "value": "112",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 02:00:00",
+            "itemid": 156.0,
+            "value": "Strong/Palpable",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 02:00:00",
+            "itemid": 549.0,
+            "value": "Easily Palpable",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 03:00:00",
+            "itemid": 51.0,
+            "value": "108",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 03:00:00",
+            "itemid": 5813.0,
+            "value": "95",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 03:00:00",
+            "itemid": 5815.0,
+            "value": "50",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 03:00:00",
+            "itemid": 5819.0,
+            "value": "8",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 03:00:00",
+            "itemid": 5820.0,
+            "value": "90",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-28 04:00:00",
+            "itemid": 43.0,
+            "value": "Clean and Dry",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 04:00:00",
+            "itemid": 51.0,
+            "value": "125",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 04:00:00",
+            "itemid": 156.0,
+            "value": "Strong/Palpable",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 04:00:00",
+            "itemid": 549.0,
+            "value": "Easily Palpable",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 04:00:00",
+            "itemid": 5813.0,
+            "value": "95",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 04:00:00",
+            "itemid": 5815.0,
+            "value": "50",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 04:00:00",
+            "itemid": 5819.0,
+            "value": "8",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 04:00:00",
+            "itemid": 5820.0,
+            "value": "90",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-28 05:00:00",
+            "itemid": 51.0,
+            "value": "128",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 05:00:00",
+            "itemid": 5813.0,
+            "value": "95",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 05:00:00",
+            "itemid": 5815.0,
+            "value": "50",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 05:00:00",
+            "itemid": 5819.0,
+            "value": "8",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 05:00:00",
+            "itemid": 5820.0,
+            "value": "90",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-28 06:00:00",
+            "itemid": 51.0,
+            "value": "127",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 06:00:00",
+            "itemid": 229.0,
+            "value": "A-Line",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 06:00:00",
+            "itemid": 294.0,
+            "value": "Left Antecub",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 06:00:00",
+            "itemid": 297.0,
+            "value": "LL Post Forearm",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 06:00:00",
+            "itemid": 5813.0,
+            "value": "90",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 06:00:00",
+            "itemid": 5815.0,
+            "value": "50",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 06:00:00",
+            "itemid": 5819.0,
+            "value": "8",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 06:00:00",
+            "itemid": 5820.0,
+            "value": "90",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 43.0,
+            "value": "Clean and Dry",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 51.0,
+            "value": "141",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 156.0,
+            "value": "Strong/Palpable",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 526.0,
+            "value": "PO Med",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 549.0,
+            "value": "Strong/Palpable",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 706.0,
+            "value": "Yellow",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 1427.0,
+            "value": "H2 Blocker",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 5813.0,
+            "value": "95",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 5815.0,
+            "value": "50",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 5819.0,
+            "value": "8",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 5820.0,
+            "value": "90",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-28 08:00:00",
+            "itemid": 51.0,
+            "value": "130",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 08:00:00",
+            "itemid": 5813.0,
+            "value": "95",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 08:00:00",
+            "itemid": 5815.0,
+            "value": "50",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 08:00:00",
+            "itemid": 5819.0,
+            "value": "8",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 08:00:00",
+            "itemid": 5820.0,
+            "value": "90",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-28 09:00:00",
+            "itemid": 51.0,
+            "value": "122",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 09:00:00",
+            "itemid": 5813.0,
+            "value": "95",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 09:00:00",
+            "itemid": 5815.0,
+            "value": "50",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 09:00:00",
+            "itemid": 5819.0,
+            "value": "8",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 09:00:00",
+            "itemid": 5820.0,
+            "value": "90",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-28 10:00:00",
+            "itemid": 51.0,
+            "value": "125",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 10:00:00",
+            "itemid": 5813.0,
+            "value": "95",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 10:00:00",
+            "itemid": 5815.0,
+            "value": "50",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 10:00:00",
+            "itemid": 5819.0,
+            "value": "8",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 10:00:00",
+            "itemid": 5820.0,
+            "value": "90",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 43.0,
+            "value": "Oozing",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 51.0,
+            "value": "128",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 156.0,
+            "value": "Strong/Palpable",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 526.0,
+            "value": "PO Med",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 549.0,
+            "value": "Strong/Palpable",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 706.0,
+            "value": "Yellow",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 5813.0,
+            "value": "95",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 5815.0,
+            "value": "50",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 5819.0,
+            "value": "8",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 5820.0,
+            "value": "90",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-28 12:00:00",
+            "itemid": 51.0,
+            "value": "128",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 12:00:00",
+            "itemid": 5813.0,
+            "value": "95",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 12:00:00",
+            "itemid": 5815.0,
+            "value": "50",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 12:00:00",
+            "itemid": 5819.0,
+            "value": "8",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 12:00:00",
+            "itemid": 5820.0,
+            "value": "90",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-28 13:00:00",
+            "itemid": 51.0,
+            "value": "117",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 13:00:00",
+            "itemid": 5813.0,
+            "value": "95",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 13:00:00",
+            "itemid": 5815.0,
+            "value": "50",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 13:00:00",
+            "itemid": 5819.0,
+            "value": "8",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 13:00:00",
+            "itemid": 5820.0,
+            "value": "90",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-27 23:38:00",
+            "itemid": 916.0,
+            "value": "Penicillins",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 23:38:00",
+            "itemid": 917.0,
+            "value": "CORONARY ARTERY DISEASE",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 23:38:00",
+            "itemid": 919.0,
+            "value": "CME",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 23:38:00",
+            "itemid": 920.0,
+            "value": "70",
+            "valueuom": "inches"
+        },
+        {
+            "charttime": "2139-09-27 23:38:00",
+            "itemid": 924.0,
+            "value": NaN,
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 23:38:00",
+            "itemid": 925.0,
+            "value": "M",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 23:38:00",
+            "itemid": 926.0,
+            "value": "RCA",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 23:38:00",
+            "itemid": 927.0,
+            "value": NaN,
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 23:38:00",
+            "itemid": 930.0,
+            "value": NaN,
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 23:38:00",
+            "itemid": 935.0,
+            "value": NaN,
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 00:00:00",
+            "itemid": 52.0,
+            "value": "106",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 00:00:00",
+            "itemid": 159.0,
+            "value": "Occasional",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 00:00:00",
+            "itemid": 161.0,
+            "value": "PVC's",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 00:00:00",
+            "itemid": 211.0,
+            "value": "67",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 00:00:00",
+            "itemid": 212.0,
+            "value": "Normal Sinus",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 00:00:00",
+            "itemid": 618.0,
+            "value": "11",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 00:00:00",
+            "itemid": 646.0,
+            "value": "100",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-28 00:00:00",
+            "itemid": 742.0,
+            "value": "1",
+            "valueuom": "kg"
+        },
+        {
+            "charttime": "2139-09-28 00:00:00",
+            "itemid": 1484.0,
+            "value": "Yes",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 01:00:00",
+            "itemid": 52.0,
+            "value": "75",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 01:00:00",
+            "itemid": 211.0,
+            "value": "68",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 01:00:00",
+            "itemid": 618.0,
+            "value": "15",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 01:00:00",
+            "itemid": 742.0,
+            "value": "1",
+            "valueuom": "kg"
+        },
+        {
+            "charttime": "2139-09-28 01:00:00",
+            "itemid": 1484.0,
+            "value": "Yes",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 02:00:00",
+            "itemid": 47.0,
+            "value": "R Femoral",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 02:00:00",
+            "itemid": 52.0,
+            "value": "89",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 02:00:00",
+            "itemid": 159.0,
+            "value": "Frequent",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 02:00:00",
+            "itemid": 161.0,
+            "value": "PVC's",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 02:00:00",
+            "itemid": 184.0,
+            "value": "4 Spontaneously",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 02:00:00",
+            "itemid": 198.0,
+            "value": "15",
+            "valueuom": "points"
+        },
+        {
+            "charttime": "2139-09-28 02:00:00",
+            "itemid": 211.0,
+            "value": "66",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 02:00:00",
+            "itemid": 212.0,
+            "value": "Normal Sinus",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 02:00:00",
+            "itemid": 432.0,
+            "value": "Alert",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 02:00:00",
+            "itemid": 454.0,
+            "value": "6 Obeys Commands",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 02:00:00",
+            "itemid": 479.0,
+            "value": "Oriented x 3",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 02:00:00",
+            "itemid": 618.0,
+            "value": "15",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 02:00:00",
+            "itemid": 646.0,
+            "value": "96",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-28 02:00:00",
+            "itemid": 723.0,
+            "value": "5 Oriented",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 02:00:00",
+            "itemid": 742.0,
+            "value": "1",
+            "valueuom": "kg"
+        },
+        {
+            "charttime": "2139-09-28 03:00:00",
+            "itemid": 52.0,
+            "value": "83",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 03:00:00",
+            "itemid": 159.0,
+            "value": "Occasional",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 03:00:00",
+            "itemid": 161.0,
+            "value": "PVC's",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 03:00:00",
+            "itemid": 211.0,
+            "value": "63",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 03:00:00",
+            "itemid": 212.0,
+            "value": "Normal Sinus",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 03:00:00",
+            "itemid": 618.0,
+            "value": "14",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 03:00:00",
+            "itemid": 646.0,
+            "value": "98",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-28 03:00:00",
+            "itemid": 742.0,
+            "value": "1",
+            "valueuom": "kg"
+        },
+        {
+            "charttime": "2139-09-28 03:00:00",
+            "itemid": 1484.0,
+            "value": "Yes",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 781.0,
+            "value": "14",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 784.0,
+            "value": "1718",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 785.0,
+            "value": "328",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 786.0,
+            "value": "8.8000001907348633",
+            "valueuom": "mg/dl"
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 787.0,
+            "value": "25",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 788.0,
+            "value": "105",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 791.0,
+            "value": ".7",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 811.0,
+            "value": "88",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 813.0,
+            "value": "34.299999237060547",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 814.0,
+            "value": "11.899999618530273",
+            "valueuom": "gm/dl"
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 815.0,
+            "value": "1.1",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 821.0,
+            "value": "1.9",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 824.0,
+            "value": "13",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 825.0,
+            "value": "44.7",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 827.0,
+            "value": "3.7000000476837158",
+            "valueuom": "mEq/L"
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 828.0,
+            "value": "206",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 829.0,
+            "value": "4",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 833.0,
+            "value": "3.75",
+            "valueuom": "/mic l"
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 837.0,
+            "value": "139",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 861.0,
+            "value": "9.4",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 1127.0,
+            "value": "9.4",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 12:00:00",
+            "itemid": 161.0,
+            "value": "PVC's",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 12:00:00",
+            "itemid": 211.0,
+            "value": "80",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 12:00:00",
+            "itemid": 212.0,
+            "value": "Normal Sinus",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 12:00:00",
+            "itemid": 524.0,
+            "value": "2-Mild",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 12:00:00",
+            "itemid": 581.0,
+            "value": "148.60000610351562",
+            "valueuom": "kg"
+        },
+        {
+            "charttime": "2139-09-28 12:00:00",
+            "itemid": 618.0,
+            "value": "27",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 12:00:00",
+            "itemid": 646.0,
+            "value": "100",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-28 12:00:00",
+            "itemid": 742.0,
+            "value": "1",
+            "valueuom": "kg"
+        },
+        {
+            "charttime": "2139-09-28 12:00:00",
+            "itemid": 1044.0,
+            "value": "2-Mild",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 12:00:00",
+            "itemid": 1087.0,
+            "value": "Pt Verbalized",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 12:00:00",
+            "itemid": 1337.0,
+            "value": "Calm/Cooperative",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 12:00:00",
+            "itemid": 1484.0,
+            "value": "Yes",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 13:00:00",
+            "itemid": 52.0,
+            "value": "89",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 13:00:00",
+            "itemid": 159.0,
+            "value": "Runs Vtach",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 13:00:00",
+            "itemid": 161.0,
+            "value": "PVC's",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 13:00:00",
+            "itemid": 211.0,
+            "value": "71",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 13:00:00",
+            "itemid": 212.0,
+            "value": "Normal Sinus",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 13:00:00",
+            "itemid": 581.0,
+            "value": "148.60000610351562",
+            "valueuom": "kg"
+        },
+        {
+            "charttime": "2139-09-28 13:00:00",
+            "itemid": 618.0,
+            "value": "18",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 13:00:00",
+            "itemid": 646.0,
+            "value": "90",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-28 13:00:00",
+            "itemid": 742.0,
+            "value": "1",
+            "valueuom": "kg"
+        },
+        {
+            "charttime": "2139-09-28 13:00:00",
+            "itemid": 1337.0,
+            "value": "Calm/Cooperative",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 13:00:00",
+            "itemid": 1484.0,
+            "value": "Yes",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 13:14:00",
+            "itemid": 783.0,
+            "value": "Y",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 467.0,
+            "value": "Nasal Cannula",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 470.0,
+            "value": "2.5",
+            "valueuom": "lpm"
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 478.0,
+            "value": "Teeth/Tissue WNL",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 479.0,
+            "value": "Oriented x 3",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 618.0,
+            "value": "14",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 644.0,
+            "value": "Intact",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 646.0,
+            "value": "96",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 674.0,
+            "value": "Oral",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 677.0,
+            "value": "36.722198486328125",
+            "valueuom": "Deg. C"
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 678.0,
+            "value": "98.099998474121094",
+            "valueuom": "Deg. F"
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 707.0,
+            "value": "Voids",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 723.0,
+            "value": "5 Oriented",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 742.0,
+            "value": "1",
+            "valueuom": "kg"
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 1337.0,
+            "value": "Calm/Cooperative",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 1484.0,
+            "value": "Yes",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 1622.0,
+            "value": "ON",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 1623.0,
+            "value": "Yes",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:51:00",
+            "itemid": 781.0,
+            "value": "14",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:51:00",
+            "itemid": 786.0,
+            "value": "9",
+            "valueuom": "mg/dl"
+        },
+        {
+            "charttime": "2139-09-27 21:51:00",
+            "itemid": 787.0,
+            "value": "26",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:51:00",
+            "itemid": 788.0,
+            "value": "103",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:51:00",
+            "itemid": 791.0,
+            "value": ".7",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:51:00",
+            "itemid": 811.0,
+            "value": "129",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:51:00",
+            "itemid": 813.0,
+            "value": "35",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-27 21:51:00",
+            "itemid": 814.0,
+            "value": "12.300000190734863",
+            "valueuom": "gm/dl"
+        },
+        {
+            "charttime": "2139-09-27 21:51:00",
+            "itemid": 821.0,
+            "value": "1.8",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:51:00",
+            "itemid": 827.0,
+            "value": "3.2999999523162842",
+            "valueuom": "mEq/L"
+        },
+        {
+            "charttime": "2139-09-27 21:51:00",
+            "itemid": 828.0,
+            "value": "207",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:51:00",
+            "itemid": 829.0,
+            "value": "4.4",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:51:00",
+            "itemid": 833.0,
+            "value": "3.809999942779541",
+            "valueuom": "/mic l"
+        },
+        {
+            "charttime": "2139-09-27 21:51:00",
+            "itemid": 837.0,
+            "value": "136",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:51:00",
+            "itemid": 861.0,
+            "value": "10.1",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:51:00",
+            "itemid": 1127.0,
+            "value": "10.1",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:51:00",
+            "itemid": 1162.0,
+            "value": "14",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:51:00",
+            "itemid": 1522.0,
+            "value": "9",
+            "valueuom": "mg/dl"
+        },
+        {
+            "charttime": "2139-09-27 21:51:00",
+            "itemid": 1523.0,
+            "value": "103",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:51:00",
+            "itemid": 1525.0,
+            "value": ".7",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:51:00",
+            "itemid": 1529.0,
+            "value": "129",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:51:00",
+            "itemid": 1532.0,
+            "value": "1.8",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:51:00",
+            "itemid": 1534.0,
+            "value": "3.2999999523162842",
+            "valueuom": "mEq/L"
+        },
+        {
+            "charttime": "2139-09-27 21:51:00",
+            "itemid": 1535.0,
+            "value": "4.4",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:51:00",
+            "itemid": 1536.0,
+            "value": "136",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:51:00",
+            "itemid": 1542.0,
+            "value": "10.1",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 22:00:00",
+            "itemid": 52.0,
+            "value": "94",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-27 22:00:00",
+            "itemid": 159.0,
+            "value": "Occasional",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 22:00:00",
+            "itemid": 161.0,
+            "value": "PVC's",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 22:00:00",
+            "itemid": 211.0,
+            "value": "71",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-27 22:00:00",
+            "itemid": 212.0,
+            "value": "Normal Sinus",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 22:00:00",
+            "itemid": 618.0,
+            "value": "13",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-27 22:00:00",
+            "itemid": 646.0,
+            "value": "95",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-27 22:00:00",
+            "itemid": 742.0,
+            "value": "1",
+            "valueuom": "kg"
+        },
+        {
+            "charttime": "2139-09-27 23:00:00",
+            "itemid": 47.0,
+            "value": "R Femoral",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 23:00:00",
+            "itemid": 52.0,
+            "value": "96",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-27 23:00:00",
+            "itemid": 159.0,
+            "value": "Occasional",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 23:00:00",
+            "itemid": 161.0,
+            "value": "PVC's",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 23:00:00",
+            "itemid": 211.0,
+            "value": "73",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-27 23:00:00",
+            "itemid": 212.0,
+            "value": "Normal Sinus",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 23:00:00",
+            "itemid": 425.0,
+            "value": "Clear",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 23:00:00",
+            "itemid": 428.0,
+            "value": "Clear",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 23:00:00",
+            "itemid": 593.0,
+            "value": "Clear",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 23:00:00",
+            "itemid": 599.0,
+            "value": "Clear",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 23:00:00",
+            "itemid": 617.0,
+            "value": "Regular",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 23:00:00",
+            "itemid": 618.0,
+            "value": "16",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-27 23:00:00",
+            "itemid": 742.0,
+            "value": "1",
+            "valueuom": "kg"
+        },
+        {
+            "charttime": "2139-09-27 23:00:00",
+            "itemid": 1484.0,
+            "value": "Yes",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 23:38:00",
+            "itemid": 69.0,
+            "value": "2.7152800559997559",
+            "valueuom": "m2"
+        },
+        {
+            "charttime": "2139-09-27 23:38:00",
+            "itemid": 762.0,
+            "value": "141",
+            "valueuom": "kg"
+        },
+        {
+            "charttime": "2139-09-28 09:00:00",
+            "itemid": 646.0,
+            "value": "99",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-28 09:00:00",
+            "itemid": 733.0,
+            "value": "0",
+            "valueuom": "kg"
+        },
+        {
+            "charttime": "2139-09-28 09:00:00",
+            "itemid": 742.0,
+            "value": "1",
+            "valueuom": "kg"
+        },
+        {
+            "charttime": "2139-09-28 09:00:00",
+            "itemid": 763.0,
+            "value": "148.60000610351562",
+            "valueuom": "kg"
+        },
+        {
+            "charttime": "2139-09-28 09:00:00",
+            "itemid": 1044.0,
+            "value": "2-Mild",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 09:00:00",
+            "itemid": 1046.0,
+            "value": "Yes",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 09:00:00",
+            "itemid": 1087.0,
+            "value": "Pt Verbalized",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 09:00:00",
+            "itemid": 1089.0,
+            "value": "Yes",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 09:00:00",
+            "itemid": 1337.0,
+            "value": "Calm/Cooperative",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 09:00:00",
+            "itemid": 1484.0,
+            "value": "Yes",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 10:00:00",
+            "itemid": 52.0,
+            "value": "93",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 10:00:00",
+            "itemid": 159.0,
+            "value": "Rare",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 10:00:00",
+            "itemid": 161.0,
+            "value": "PVC's",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 10:00:00",
+            "itemid": 211.0,
+            "value": "71",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 10:00:00",
+            "itemid": 212.0,
+            "value": "Normal Sinus",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 10:00:00",
+            "itemid": 581.0,
+            "value": "148.60000610351562",
+            "valueuom": "kg"
+        },
+        {
+            "charttime": "2139-09-28 10:00:00",
+            "itemid": 618.0,
+            "value": "14",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 10:00:00",
+            "itemid": 646.0,
+            "value": "99",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-28 10:00:00",
+            "itemid": 742.0,
+            "value": "1",
+            "valueuom": "kg"
+        },
+        {
+            "charttime": "2139-09-28 10:00:00",
+            "itemid": 1484.0,
+            "value": "Yes",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 10:36:00",
+            "itemid": 825.0,
+            "value": "56.9",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 10:36:00",
+            "itemid": 1533.0,
+            "value": "56.9",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 27.0,
+            "value": "Soft Distended",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 47.0,
+            "value": "R Femoral",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 52.0,
+            "value": "96",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 80.0,
+            "value": "Present",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 82.0,
+            "value": "Bedfast",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 83.0,
+            "value": "No Apparent Prob",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 84.0,
+            "value": "Sl. Limited",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 85.0,
+            "value": "Rarely Moist",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 86.0,
+            "value": "Excellent",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 87.0,
+            "value": "19",
+            "valueuom": "number"
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 88.0,
+            "value": "No Impairment",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 154.0,
+            "value": "NAS/Low Cholest",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 159.0,
+            "value": "Rare",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 161.0,
+            "value": "PVC's",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 184.0,
+            "value": "4 Spontaneously",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 198.0,
+            "value": "15",
+            "valueuom": "points"
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 211.0,
+            "value": "70",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 212.0,
+            "value": "Normal Sinus",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 425.0,
+            "value": "Clear",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 428.0,
+            "value": "Clear",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 432.0,
+            "value": "Alert",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 454.0,
+            "value": "6 Obeys Commands",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 467.0,
+            "value": "None",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 478.0,
+            "value": "Teeth/Tissue WNL",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 479.0,
+            "value": "Oriented x 3",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 524.0,
+            "value": "5-Moderate",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 581.0,
+            "value": "148.60000610351562",
+            "valueuom": "kg"
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 593.0,
+            "value": "Clear",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 599.0,
+            "value": "Clear",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 617.0,
+            "value": "Regular",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 618.0,
+            "value": "12",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 637.0,
+            "value": "Side Rails Up",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 644.0,
+            "value": "Intact",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 646.0,
+            "value": "99",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 674.0,
+            "value": "Oral",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 677.0,
+            "value": "36.944400787353516",
+            "valueuom": "Deg. C"
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 678.0,
+            "value": "98.5",
+            "valueuom": "Deg. F"
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 707.0,
+            "value": "Voids",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 723.0,
+            "value": "5 Oriented",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 742.0,
+            "value": "1",
+            "valueuom": "kg"
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 1044.0,
+            "value": "5-Moderate",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 1087.0,
+            "value": "Pt Verbalized",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 1484.0,
+            "value": "Yes",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 12:00:00",
+            "itemid": 52.0,
+            "value": "97",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 12:00:00",
+            "itemid": 159.0,
+            "value": "Rare",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 27.0,
+            "value": "Obese",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 47.0,
+            "value": "R Femoral",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 52.0,
+            "value": "90",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 80.0,
+            "value": "Present",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 82.0,
+            "value": "Bedfast",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 83.0,
+            "value": "Potential Prob",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 84.0,
+            "value": "Very Limited",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 85.0,
+            "value": "Rarely Moist",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 86.0,
+            "value": "Adequate",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 87.0,
+            "value": "16",
+            "valueuom": "number"
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 88.0,
+            "value": "No Impairment",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 154.0,
+            "value": "NAS/Low Cholest",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 159.0,
+            "value": "Rare",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 161.0,
+            "value": "PVC's",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 184.0,
+            "value": "4 Spontaneously",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 198.0,
+            "value": "15",
+            "valueuom": "points"
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 211.0,
+            "value": "69",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 212.0,
+            "value": "Normal Sinus",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 232.0,
+            "value": "WNL",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 324.0,
+            "value": "WNL",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 325.0,
+            "value": "WNL",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 432.0,
+            "value": "Alert",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:30:00",
+            "itemid": 454.0,
+            "value": "6 Obeys Commands",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 86.0,
+            "value": "Excellent",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 87.0,
+            "value": "19",
+            "valueuom": "number"
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 88.0,
+            "value": "No Impairment",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 154.0,
+            "value": "NAS/Low Cholest",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 159.0,
+            "value": "None",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 161.0,
+            "value": "None",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 165.0,
+            "value": "None",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 166.0,
+            "value": "Not Given",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 167.0,
+            "value": "Patient",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 168.0,
+            "value": "Explanation",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 169.0,
+            "value": "Yes",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 170.0,
+            "value": "Reinforced",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 171.0,
+            "value": "Disease Process",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 172.0,
+            "value": "Cardiac Cath",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 184.0,
+            "value": "4 Spontaneously",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 198.0,
+            "value": "15",
+            "valueuom": "points"
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 211.0,
+            "value": "78",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 212.0,
+            "value": "Normal Sinus",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 425.0,
+            "value": "Clear",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 428.0,
+            "value": "Clear",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 432.0,
+            "value": "Alert",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 454.0,
+            "value": "6 Obeys Commands",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 467.0,
+            "value": "None",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 478.0,
+            "value": "Teeth/Tissue WNL",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 479.0,
+            "value": "Oriented x 3",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 522.0,
+            "value": "At Rest",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 524.0,
+            "value": "5-Moderate",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 525.0,
+            "value": "Back",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 527.0,
+            "value": "Aching",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 593.0,
+            "value": "Clear",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 599.0,
+            "value": "Clear",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 617.0,
+            "value": "Regular",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 618.0,
+            "value": "22",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 637.0,
+            "value": "Side Rails Up",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 644.0,
+            "value": "Intact",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 646.0,
+            "value": "99",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 707.0,
+            "value": "Voids",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 723.0,
+            "value": "5 Oriented",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 742.0,
+            "value": "1",
+            "valueuom": "kg"
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 1044.0,
+            "value": "5-Moderate",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 1045.0,
+            "value": "3-Mild to Mod",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 1046.0,
+            "value": "Yes",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 1087.0,
+            "value": "Pt Verbalized",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 1089.0,
+            "value": "Yes",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 1337.0,
+            "value": "Calm/Cooperative",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 1484.0,
+            "value": "Yes",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 08:00:00",
+            "itemid": 52.0,
+            "value": "96",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 08:00:00",
+            "itemid": 159.0,
+            "value": "None",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 08:00:00",
+            "itemid": 161.0,
+            "value": "None",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 08:00:00",
+            "itemid": 211.0,
+            "value": "73",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 08:00:00",
+            "itemid": 212.0,
+            "value": "Normal Sinus",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 08:00:00",
+            "itemid": 467.0,
+            "value": "None",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 08:00:00",
+            "itemid": 618.0,
+            "value": "12",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 08:00:00",
+            "itemid": 646.0,
+            "value": "100",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-28 08:00:00",
+            "itemid": 742.0,
+            "value": "1",
+            "valueuom": "kg"
+        },
+        {
+            "charttime": "2139-09-28 08:00:00",
+            "itemid": 1484.0,
+            "value": "Yes",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 09:00:00",
+            "itemid": 52.0,
+            "value": "91",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 09:00:00",
+            "itemid": 70.0,
+            "value": "1.8236099481582642",
+            "valueuom": "m2"
+        },
+        {
+            "charttime": "2139-09-28 09:00:00",
+            "itemid": 71.0,
+            "value": "2.1112899780273438",
+            "valueuom": "m2"
+        },
+        {
+            "charttime": "2139-09-28 09:00:00",
+            "itemid": 159.0,
+            "value": "Rare",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 09:00:00",
+            "itemid": 161.0,
+            "value": "PVC's",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 09:00:00",
+            "itemid": 211.0,
+            "value": "76",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 09:00:00",
+            "itemid": 212.0,
+            "value": "Normal Sinus",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 09:00:00",
+            "itemid": 524.0,
+            "value": "2-Mild",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 09:00:00",
+            "itemid": 580.0,
+            "value": "148.60000610351562",
+            "valueuom": "kg"
+        },
+        {
+            "charttime": "2139-09-28 09:00:00",
+            "itemid": 581.0,
+            "value": "148.60000610351562",
+            "valueuom": "kg"
+        },
+        {
+            "charttime": "2139-09-28 09:00:00",
+            "itemid": 618.0,
+            "value": "16",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 1162.0,
+            "value": "14",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 1286.0,
+            "value": "13",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 1522.0,
+            "value": "8.8000001907348633",
+            "valueuom": "mg/dl"
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 1523.0,
+            "value": "105",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 1525.0,
+            "value": ".7",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 1529.0,
+            "value": "88",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 1530.0,
+            "value": "1.1",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 1532.0,
+            "value": "1.9",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 1533.0,
+            "value": "44.7",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 1534.0,
+            "value": "3.7000000476837158",
+            "valueuom": "mEq/L"
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 1535.0,
+            "value": "4",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 1536.0,
+            "value": "139",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 1542.0,
+            "value": "9.4",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 04:00:00",
+            "itemid": 47.0,
+            "value": "R Femoral",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 04:00:00",
+            "itemid": 52.0,
+            "value": "95",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 04:00:00",
+            "itemid": 159.0,
+            "value": "Occasional",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 04:00:00",
+            "itemid": 161.0,
+            "value": "PVC's",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 04:00:00",
+            "itemid": 211.0,
+            "value": "70",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 04:00:00",
+            "itemid": 212.0,
+            "value": "Normal Sinus",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 04:00:00",
+            "itemid": 425.0,
+            "value": "Clear",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 04:00:00",
+            "itemid": 428.0,
+            "value": "Clear",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 04:00:00",
+            "itemid": 593.0,
+            "value": "Clear",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 04:00:00",
+            "itemid": 599.0,
+            "value": "Clear",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 04:00:00",
+            "itemid": 617.0,
+            "value": "Regular",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 04:00:00",
+            "itemid": 618.0,
+            "value": "15",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 04:00:00",
+            "itemid": 646.0,
+            "value": "100",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-28 04:00:00",
+            "itemid": 674.0,
+            "value": "Oral",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 04:00:00",
+            "itemid": 677.0,
+            "value": "36.666698455810547",
+            "valueuom": "Deg. C"
+        },
+        {
+            "charttime": "2139-09-28 04:00:00",
+            "itemid": 678.0,
+            "value": "98",
+            "valueuom": "Deg. F"
+        },
+        {
+            "charttime": "2139-09-28 04:00:00",
+            "itemid": 742.0,
+            "value": "1",
+            "valueuom": "kg"
+        },
+        {
+            "charttime": "2139-09-28 04:00:00",
+            "itemid": 1484.0,
+            "value": "Yes",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 04:00:00",
+            "itemid": 1622.0,
+            "value": "ON",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 04:00:00",
+            "itemid": 1623.0,
+            "value": "Yes",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 05:00:00",
+            "itemid": 52.0,
+            "value": "98",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 05:00:00",
+            "itemid": 159.0,
+            "value": "Occasional",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 05:00:00",
+            "itemid": 161.0,
+            "value": "PVC's",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 05:00:00",
+            "itemid": 211.0,
+            "value": "69",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 05:00:00",
+            "itemid": 212.0,
+            "value": "Normal Sinus",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 05:00:00",
+            "itemid": 618.0,
+            "value": "20",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 05:00:00",
+            "itemid": 646.0,
+            "value": "100",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-28 05:00:00",
+            "itemid": 742.0,
+            "value": "1",
+            "valueuom": "kg"
+        },
+        {
+            "charttime": "2139-09-28 05:00:00",
+            "itemid": 1484.0,
+            "value": "Yes",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 06:00:00",
+            "itemid": 52.0,
+            "value": "99",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 06:00:00",
+            "itemid": 159.0,
+            "value": "Rare",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 06:00:00",
+            "itemid": 161.0,
+            "value": "PVC's",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 06:00:00",
+            "itemid": 211.0,
+            "value": "80",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 06:00:00",
+            "itemid": 212.0,
+            "value": "Normal Sinus",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 06:00:00",
+            "itemid": 232.0,
+            "value": "Bleeding",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 06:00:00",
+            "itemid": 324.0,
+            "value": "WNL",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 06:00:00",
+            "itemid": 325.0,
+            "value": "WNL",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 06:00:00",
+            "itemid": 467.0,
+            "value": "None",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 06:00:00",
+            "itemid": 618.0,
+            "value": "25",
+            "valueuom": "BPM"
+        },
+        {
+            "charttime": "2139-09-28 06:00:00",
+            "itemid": 646.0,
+            "value": "99",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-28 06:00:00",
+            "itemid": 674.0,
+            "value": "Oral",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 06:00:00",
+            "itemid": 677.0,
+            "value": "37.166698455810547",
+            "valueuom": "Deg. C"
+        },
+        {
+            "charttime": "2139-09-28 06:00:00",
+            "itemid": 678.0,
+            "value": "98.900001525878906",
+            "valueuom": "Deg. F"
+        },
+        {
+            "charttime": "2139-09-28 06:00:00",
+            "itemid": 742.0,
+            "value": "1",
+            "valueuom": "kg"
+        },
+        {
+            "charttime": "2139-09-28 06:00:00",
+            "itemid": 1484.0,
+            "value": "Yes",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 06:00:00",
+            "itemid": 1622.0,
+            "value": "ON",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 06:00:00",
+            "itemid": 1623.0,
+            "value": "Yes",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 27.0,
+            "value": "Soft Distended",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 47.0,
+            "value": "R Femoral",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 52.0,
+            "value": "106",
+            "valueuom": "mmHg"
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 80.0,
+            "value": "Present",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 82.0,
+            "value": "Bedfast",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 83.0,
+            "value": "No Apparent Prob",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 84.0,
+            "value": "Sl. Limited",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 07:00:00",
+            "itemid": 85.0,
+            "value": "Rarely Moist",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-27 21:51:00",
+            "itemid": 50960.0,
+            "value": "1.8",
+            "valueuom": "mg/dL"
+        },
+        {
+            "charttime": "2139-09-27 21:51:00",
+            "itemid": 50970.0,
+            "value": "3.3",
+            "valueuom": "mg/dL"
+        },
+        {
+            "charttime": "2139-09-27 21:51:00",
+            "itemid": 50971.0,
+            "value": "4.4",
+            "valueuom": "mEq/L"
+        },
+        {
+            "charttime": "2139-09-27 21:51:00",
+            "itemid": 50983.0,
+            "value": "136",
+            "valueuom": "mEq/L"
+        },
+        {
+            "charttime": "2139-09-27 21:51:00",
+            "itemid": 51006.0,
+            "value": "14",
+            "valueuom": "mg/dL"
+        },
+        {
+            "charttime": "2139-09-27 21:51:00",
+            "itemid": 51221.0,
+            "value": "35.0",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-27 21:51:00",
+            "itemid": 51222.0,
+            "value": "12.3",
+            "valueuom": "g/dL"
+        },
+        {
+            "charttime": "2139-09-27 21:51:00",
+            "itemid": 51248.0,
+            "value": "32.2",
+            "valueuom": "pg"
+        },
+        {
+            "charttime": "2139-09-27 21:51:00",
+            "itemid": 51249.0,
+            "value": "35.0",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-27 21:51:00",
+            "itemid": 51250.0,
+            "value": "92",
+            "valueuom": "fL"
+        },
+        {
+            "charttime": "2139-09-27 21:51:00",
+            "itemid": 51265.0,
+            "value": "207",
+            "valueuom": "K/uL"
+        },
+        {
+            "charttime": "2139-09-27 21:51:00",
+            "itemid": 51277.0,
+            "value": "12.7",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-27 21:51:00",
+            "itemid": 51279.0,
+            "value": "3.81",
+            "valueuom": "m/uL"
+        },
+        {
+            "charttime": "2139-09-27 21:51:00",
+            "itemid": 51301.0,
+            "value": "10.1",
+            "valueuom": "K/uL"
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 50868.0,
+            "value": "13",
+            "valueuom": "mEq/L"
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 50882.0,
+            "value": "25",
+            "valueuom": "mEq/L"
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 50893.0,
+            "value": "8.8",
+            "valueuom": "mg/dL"
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 50902.0,
+            "value": "105",
+            "valueuom": "mEq/L"
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 50908.0,
+            "value": "19.1",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 50910.0,
+            "value": "1718",
+            "valueuom": "IU/L"
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 50911.0,
+            "value": "328",
+            "valueuom": "ng/mL"
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 50912.0,
+            "value": "0.7",
+            "valueuom": "mg/dL"
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 50931.0,
+            "value": "88",
+            "valueuom": "mg/dL"
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 50960.0,
+            "value": "1.9",
+            "valueuom": "mg/dL"
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 50970.0,
+            "value": "3.7",
+            "valueuom": "mg/dL"
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 50971.0,
+            "value": "4.0",
+            "valueuom": "mEq/L"
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 50983.0,
+            "value": "139",
+            "valueuom": "mEq/L"
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 51003.0,
+            "value": "5.83",
+            "valueuom": "ng/ml"
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 51006.0,
+            "value": "14",
+            "valueuom": "mg/dL"
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 51221.0,
+            "value": "34.3",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 51222.0,
+            "value": "11.9",
+            "valueuom": "g/dL"
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 51237.0,
+            "value": "1.1",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 51248.0,
+            "value": "31.6",
+            "valueuom": "pg"
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 51249.0,
+            "value": "34.6",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 51250.0,
+            "value": "91",
+            "valueuom": "fL"
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 51265.0,
+            "value": "206",
+            "valueuom": "K/uL"
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 51274.0,
+            "value": "13.0",
+            "valueuom": "sec"
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 51275.0,
+            "value": "44.7",
+            "valueuom": "sec"
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 51277.0,
+            "value": "12.7",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 51279.0,
+            "value": "3.75",
+            "valueuom": "m/uL"
+        },
+        {
+            "charttime": "2139-09-28 03:52:00",
+            "itemid": 51301.0,
+            "value": "9.4",
+            "valueuom": "K/uL"
+        },
+        {
+            "charttime": "2139-09-28 10:36:00",
+            "itemid": 51275.0,
+            "value": "56.9",
+            "valueuom": "sec"
+        },
+        {
+            "charttime": "2139-09-28 20:30:00",
+            "itemid": 51265.0,
+            "value": "208",
+            "valueuom": "K/uL"
+        },
+        {
+            "charttime": "2139-09-28 23:10:00",
+            "itemid": 50908.0,
+            "value": "8.9",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-28 23:10:00",
+            "itemid": 50910.0,
+            "value": "831",
+            "valueuom": "IU/L"
+        },
+        {
+            "charttime": "2139-09-28 23:10:00",
+            "itemid": 50911.0,
+            "value": "74",
+            "valueuom": "ng/mL"
+        },
+        {
+            "charttime": "2139-09-28 23:10:00",
+            "itemid": 50971.0,
+            "value": "3.9",
+            "valueuom": "mEq/L"
+        },
+        {
+            "charttime": "2139-09-28 23:10:00",
+            "itemid": 51221.0,
+            "value": "35.8",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-28 23:10:00",
+            "itemid": 51222.0,
+            "value": "12.2",
+            "valueuom": "g/dL"
+        },
+        {
+            "charttime": "2139-09-28 23:10:00",
+            "itemid": 51248.0,
+            "value": "31.5",
+            "valueuom": "pg"
+        },
+        {
+            "charttime": "2139-09-28 23:10:00",
+            "itemid": 51249.0,
+            "value": "34.1",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-28 23:10:00",
+            "itemid": 51250.0,
+            "value": "92",
+            "valueuom": "fL"
+        },
+        {
+            "charttime": "2139-09-28 23:10:00",
+            "itemid": 51265.0,
+            "value": "191",
+            "valueuom": "K/uL"
+        },
+        {
+            "charttime": "2139-09-28 23:10:00",
+            "itemid": 51277.0,
+            "value": "12.8",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-28 23:10:00",
+            "itemid": 51279.0,
+            "value": "3.88",
+            "valueuom": "m/uL"
+        },
+        {
+            "charttime": "2139-09-28 23:10:00",
+            "itemid": 51301.0,
+            "value": "8.9",
+            "valueuom": "K/uL"
+        },
+        {
+            "charttime": "2139-09-29 06:04:00",
+            "itemid": 50868.0,
+            "value": "12",
+            "valueuom": "mEq/L"
+        },
+        {
+            "charttime": "2139-09-29 06:04:00",
+            "itemid": 50882.0,
+            "value": "27",
+            "valueuom": "mEq/L"
+        },
+        {
+            "charttime": "2139-09-29 06:04:00",
+            "itemid": 50893.0,
+            "value": "8.9",
+            "valueuom": "mg/dL"
+        },
+        {
+            "charttime": "2139-09-29 06:04:00",
+            "itemid": 50902.0,
+            "value": "102",
+            "valueuom": "mEq/L"
+        },
+        {
+            "charttime": "2139-09-29 06:04:00",
+            "itemid": 50908.0,
+            "value": "8.0",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-29 06:04:00",
+            "itemid": 50910.0,
+            "value": "842",
+            "valueuom": "IU/L"
+        },
+        {
+            "charttime": "2139-09-29 06:04:00",
+            "itemid": 50911.0,
+            "value": "67",
+            "valueuom": "ng/mL"
+        },
+        {
+            "charttime": "2139-09-29 06:04:00",
+            "itemid": 50912.0,
+            "value": "0.8",
+            "valueuom": "mg/dL"
+        },
+        {
+            "charttime": "2139-09-29 06:04:00",
+            "itemid": 50931.0,
+            "value": "155",
+            "valueuom": "mg/dL"
+        },
+        {
+            "charttime": "2139-09-29 06:04:00",
+            "itemid": 50960.0,
+            "value": "1.8",
+            "valueuom": "mg/dL"
+        },
+        {
+            "charttime": "2139-09-29 06:04:00",
+            "itemid": 50970.0,
+            "value": "2.5",
+            "valueuom": "mg/dL"
+        },
+        {
+            "charttime": "2139-09-29 06:04:00",
+            "itemid": 50971.0,
+            "value": "3.7",
+            "valueuom": "mEq/L"
+        },
+        {
+            "charttime": "2139-09-29 06:04:00",
+            "itemid": 50983.0,
+            "value": "137",
+            "valueuom": "mEq/L"
+        },
+        {
+            "charttime": "2139-09-29 06:04:00",
+            "itemid": 51003.0,
+            "value": "2.88",
+            "valueuom": "ng/ml"
+        },
+        {
+            "charttime": "2139-09-29 06:04:00",
+            "itemid": 51006.0,
+            "value": "11",
+            "valueuom": "mg/dL"
+        },
+        {
+            "charttime": "2139-09-29 06:04:00",
+            "itemid": 51221.0,
+            "value": "34.4",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-29 06:04:00",
+            "itemid": 51222.0,
+            "value": "12.2",
+            "valueuom": "g/dL"
+        },
+        {
+            "charttime": "2139-09-29 06:04:00",
+            "itemid": 51248.0,
+            "value": "32.3",
+            "valueuom": "pg"
+        },
+        {
+            "charttime": "2139-09-29 06:04:00",
+            "itemid": 51249.0,
+            "value": "35.6",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-29 06:04:00",
+            "itemid": 51250.0,
+            "value": "91",
+            "valueuom": "fL"
+        },
+        {
+            "charttime": "2139-09-29 06:04:00",
+            "itemid": 51265.0,
+            "value": "191",
+            "valueuom": "K/uL"
+        },
+        {
+            "charttime": "2139-09-29 06:04:00",
+            "itemid": 51277.0,
+            "value": "12.3",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-29 06:04:00",
+            "itemid": 51279.0,
+            "value": "3.79",
+            "valueuom": "m/uL"
+        },
+        {
+            "charttime": "2139-09-29 06:04:00",
+            "itemid": 51301.0,
+            "value": "9.6",
+            "valueuom": "K/uL"
+        },
+        {
+            "charttime": "2139-09-29 18:43:00",
+            "itemid": 51275.0,
+            "value": "42.1",
+            "valueuom": "sec"
+        },
+        {
+            "charttime": "2139-09-30 03:31:00",
+            "itemid": 50868.0,
+            "value": "16",
+            "valueuom": "mEq/L"
+        },
+        {
+            "charttime": "2139-09-30 03:31:00",
+            "itemid": 50882.0,
+            "value": "25",
+            "valueuom": "mEq/L"
+        },
+        {
+            "charttime": "2139-09-30 03:31:00",
+            "itemid": 50893.0,
+            "value": "9.0",
+            "valueuom": "mg/dL"
+        },
+        {
+            "charttime": "2139-09-30 03:31:00",
+            "itemid": 50902.0,
+            "value": "103",
+            "valueuom": "mEq/L"
+        },
+        {
+            "charttime": "2139-09-30 03:31:00",
+            "itemid": 50912.0,
+            "value": "0.9",
+            "valueuom": "mg/dL"
+        },
+        {
+            "charttime": "2139-09-30 03:31:00",
+            "itemid": 50931.0,
+            "value": "130",
+            "valueuom": "mg/dL"
+        },
+        {
+            "charttime": "2139-09-30 03:31:00",
+            "itemid": 50960.0,
+            "value": "2.0",
+            "valueuom": "mg/dL"
+        },
+        {
+            "charttime": "2139-09-30 03:31:00",
+            "itemid": 50970.0,
+            "value": "2.7",
+            "valueuom": "mg/dL"
+        },
+        {
+            "charttime": "2139-09-30 03:31:00",
+            "itemid": 50971.0,
+            "value": "4.2",
+            "valueuom": "mEq/L"
+        },
+        {
+            "charttime": "2139-09-30 03:31:00",
+            "itemid": 50983.0,
+            "value": "140",
+            "valueuom": "mEq/L"
+        },
+        {
+            "charttime": "2139-09-30 03:31:00",
+            "itemid": 51006.0,
+            "value": "13",
+            "valueuom": "mg/dL"
+        },
+        {
+            "charttime": "2139-09-30 03:31:00",
+            "itemid": 51221.0,
+            "value": "36.4",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-30 03:31:00",
+            "itemid": 51222.0,
+            "value": "12.6",
+            "valueuom": "g/dL"
+        },
+        {
+            "charttime": "2139-09-30 03:31:00",
+            "itemid": 51237.0,
+            "value": "1.2",
+            "valueuom": NaN
+        },
+        {
+            "charttime": "2139-09-30 03:31:00",
+            "itemid": 51248.0,
+            "value": "31.2",
+            "valueuom": "pg"
+        },
+        {
+            "charttime": "2139-09-30 03:31:00",
+            "itemid": 51249.0,
+            "value": "34.5",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-30 03:31:00",
+            "itemid": 51250.0,
+            "value": "90",
+            "valueuom": "fL"
+        },
+        {
+            "charttime": "2139-09-30 03:31:00",
+            "itemid": 51265.0,
+            "value": "201",
+            "valueuom": "K/uL"
+        },
+        {
+            "charttime": "2139-09-30 03:31:00",
+            "itemid": 51274.0,
+            "value": "13.6",
+            "valueuom": "sec"
+        },
+        {
+            "charttime": "2139-09-30 03:31:00",
+            "itemid": 51275.0,
+            "value": "61.6",
+            "valueuom": "sec"
+        },
+        {
+            "charttime": "2139-09-30 03:31:00",
+            "itemid": 51277.0,
+            "value": "12.3",
+            "valueuom": "%"
+        },
+        {
+            "charttime": "2139-09-30 03:31:00",
+            "itemid": 51279.0,
+            "value": "4.03",
+            "valueuom": "m/uL"
+        },
+        {
+            "charttime": "2139-09-30 03:31:00",
+            "itemid": 51301.0,
+            "value": "10.6",
+            "valueuom": "K/uL"
+        },
+        {
+            "charttime": "2139-09-30 10:00:00",
+            "itemid": 51275.0,
+            "value": "76.1",
+            "valueuom": "sec"
+        },
+        {
+            "charttime": "2139-09-27 21:51:00",
+            "itemid": 50868.0,
+            "value": "11",
+            "valueuom": "mEq/L"
+        },
+        {
+            "charttime": "2139-09-27 21:51:00",
+            "itemid": 50882.0,
+            "value": "26",
+            "valueuom": "mEq/L"
+        },
+        {
+            "charttime": "2139-09-27 21:51:00",
+            "itemid": 50893.0,
+            "value": "9.0",
+            "valueuom": "mg/dL"
+        },
+        {
+            "charttime": "2139-09-27 21:51:00",
+            "itemid": 50902.0,
+            "value": "103",
+            "valueuom": "mEq/L"
+        },
+        {
+            "charttime": "2139-09-27 21:51:00",
+            "itemid": 50912.0,
+            "value": "0.7",
+            "valueuom": "mg/dL"
+        },
+        {
+            "charttime": "2139-09-27 21:51:00",
+            "itemid": 50931.0,
+            "value": "129",
+            "valueuom": "mg/dL"
+        },
+        {
+            "charttime": "2139-09-28 05:00:00",
+            "itemid": 40069.0,
+            "value": "325.0",
+            "valueuom": "ml"
+        },
+        {
+            "charttime": "2139-09-27 22:30:00",
+            "itemid": 40069.0,
+            "value": "425.0",
+            "valueuom": "ml"
+        },
+        {
+            "charttime": "2139-09-28 00:00:00",
+            "itemid": 40069.0,
+            "value": "375.0",
+            "valueuom": "ml"
+        },
+        {
+            "charttime": "2139-09-28 08:00:00",
+            "itemid": 40069.0,
+            "value": "450.0",
+            "valueuom": "ml"
+        },
+        {
+            "charttime": "2139-09-28 09:00:00",
+            "itemid": 40069.0,
+            "value": "350.0",
+            "valueuom": "ml"
+        },
+        {
+            "charttime": "2139-09-28 11:00:00",
+            "itemid": 40069.0,
+            "value": "300.0",
+            "valueuom": "ml"
+        },
+        {
+            "charttime": "2139-09-28 12:00:00",
+            "itemid": 40069.0,
+            "value": "350.0",
+            "valueuom": "ml"
+        },
+        {
+            "charttime": "2139-09-28 13:00:00",
+            "itemid": 40069.0,
+            "value": "500.0",
+            "valueuom": "ml"
+        },
+        {
+            "charttime": "2139-09-28 06:00:00",
+            "itemid": 40069.0,
+            "value": "375.0",
+            "valueuom": "ml"
+        }
+    ]
+}

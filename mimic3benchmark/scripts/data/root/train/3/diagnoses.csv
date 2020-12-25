@@ -1,0 +1,10 @@
+ROW_ID,SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+4,3,145834,1,0389,Septicemia NOS,Unspecified septicemia,211552,Septicemia (except in labor),1
+5,3,145834,2,78559,Shock w/o trauma NEC,Other shock without mention of trauma,211552,Shock,1
+6,3,145834,3,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified",211552,Acute and unspecified renal failure,1
+7,3,145834,4,4275,Cardiac arrest,Cardiac arrest,211552,Cardiac arrest and ventricular fibrillation,0
+8,3,145834,5,41071,"Subendo infarct, initial","Subendocardial infarction, initial episode of care",211552,Acute myocardial infarction,1
+9,3,145834,6,4280,CHF NOS,"Congestive heart failure, unspecified",211552,Congestive heart failure; nonhypertensive,1
+10,3,145834,7,6826,Cellulitis of leg,"Cellulitis and abscess of leg, except foot",211552,Skin and subcutaneous tissue infections,0
+11,3,145834,8,4254,Prim cardiomyopathy NEC,Other primary cardiomyopathies,211552,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),0
+12,3,145834,9,2639,Protein-cal malnutr NOS,Unspecified protein-calorie malnutrition,211552,Nutritional deficiencies,0
